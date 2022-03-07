@@ -1,0 +1,18 @@
+.para {
+  margin: 0;
+  text-indent: 2rem;
+  text-align: justify;
+}
+
+.main-input {
+  border-radius: 30px;
+}
+
+#sec-two {
+  display: none;
+}
+
+svg {
+  width: 100px;
+  height: 100%;
+}
